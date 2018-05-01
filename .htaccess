@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^((.*)\.)?(xamarin\.pl)$ [NC]
+RewriteRule ^ https://www.xamarin.com/ [R=302,L,NE]
