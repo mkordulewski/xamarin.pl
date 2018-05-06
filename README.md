@@ -2,5 +2,5 @@
 
 * Polish Xamarin website:
   * http://xamarin.pl/
-* Redirects to Xamarin website:
+* Based on main Xamarin website:
   * https://www.xamarin.com/
