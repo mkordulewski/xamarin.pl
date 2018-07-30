@@ -1,3 +1,5 @@
+ErrorDocument 404 /404.html
+
 RewriteEngine On
 
 # redirection from subdomains
